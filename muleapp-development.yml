@@ -6,5 +6,5 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-host.name: krishnanhost
+host.name: krishnanhost2
 host.port: "8087"
